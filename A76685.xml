@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheca fanatica: or, The phanatique library being a catalogue of such books as have been lately made and by the authors presented to the colledge of Bedlam·</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76685</idno>
+            <idno type="STC">Wing B2826</idno>
+            <idno type="STC">ESTC R225020</idno>
+            <idno type="EEBO-CITATION">99896534</idno>
+            <idno type="PROQUEST">99896534</idno>
+            <idno type="VID">133650</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76685)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133650)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2419:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bibliotheca fanatica: or, The phanatique library being a catalogue of such books as have been lately made and by the authors presented to the colledge of Bedlam·</title>
+               </titleStmt>
+               <extent>[2], 7 [i.e.6] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,]</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire on the Puritans and Parliament.</note>
+                  <note>P. 6 misnumbered 7.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Puritans --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133650:1"/>
+            <p>
+               <hi>BIBLIOTHECA FANATICA:</hi> OR, THE Phanatique Library: BEING A CATALOGUE OF Such Books as have been lately made and by the AUTHORS preſented to the Colledge of BEDLAM</p>
+            <p>Printed in the year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_library_books">
+            <pb facs="tcp:133650:2"/>
+            <pb n="1" facs="tcp:133650:2"/>
+            <list>
+               <head>
+                  <hi>Bibliotheca Fanatica.</hi> OR, The Fanatick Library:</head>
+               <item>
+                  <seg rend="decorInit">T</seg>He difference between <hi>Rogue</hi> and <hi>Robert, Titch<g ref="char:EOLhyphen"/>burn</hi> and <hi>Tyburn,</hi> learnedly ſtated in ſeveral Poſitions, in Anſwer to a late Libel, or Uni<g ref="char:EOLhyphen"/>verſity Queries; By <hi>Robert Titchburn,</hi> Alder<g ref="char:EOLhyphen"/>man.</item>
+               <item>
+                  <hi>Canaan's Grapes;</hi> being a taſte of the virtues and fidelity of our Saints: By the ſame Author.</item>
+               <item>
+                  <hi>Ochus Redevivus,</hi> Or a clear demonſtration that a Trap<g ref="char:EOLhyphen"/>dore, or Gallows, is the beſt reward for Traitorous Aſſiſtance, an excellent piece; Illuſtrated with variety of Figures, and intended lately for publike view; By the Parliament of <hi>England.</hi> A Manuſcript not yet printed.</item>
+               <item>
+                  <hi>But lately marryed:</hi> Or a grave Reaſon why amongſt o<g ref="char:EOLhyphen"/>ther Wares he hath but for theſe two years traded in Horns: By <hi>Nicholas Gold,</hi> Rump-Merchant.</item>
+               <pb n="2" facs="tcp:133650:3"/>
+               <item> 
+                  <hi>Ragionamenti d' Aretino;</hi> or, Pathetical and feeling Dia<g ref="char:EOLhyphen"/>logues, for the preparation and inſtruction of the ſanctified Siſters: By <hi>Thomas Scot</hi> a Brewer's Clark, and late Secreta<g ref="char:EOLhyphen"/>ry of the Council of State.</item>
+               <item>The Sword of the Spirit the Devils ſureſt Weapon; Or, Preaching and Praying, the moſt expedite way to rule the Earth: By Sir <hi>Henry Vane,</hi> Knight.</item>
+               <item>
+                  <hi>Vanitas Vanitatum, omnia vanitas:</hi> Or Saint-like ejaculati<g ref="char:EOLhyphen"/>ons againſt the vanity of Turbulency and Ambition: By the ſame <hi>Vane</hi> Author.</item>
+               <item>
+                  <hi>Corruptio vnius generatio alterius:</hi> or, A Treatiſe to prove that a Run-away-Prentice makes an excellent States-man: By Major <hi>Salwey:</hi>
+               </item>
+               <item>
+                  <hi>Sanguis Martyrum ſemen Eccleſiae:</hi> A compleat Work, pro<g ref="char:EOLhyphen"/>poſing to the Parliament, That the beſt way to propage the Commonwealth, is to ſettle it on the Ruines of its firſt Founders, <hi>Lambert, Vane, Desborow, Titchburn, &amp;c.</hi> By a Friend to the Commonwealth of <hi>England.</hi>
+               </item>
+               <item>
+                  <hi>Mercu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ius Acheronticus;</hi> or, The infernal Poſt: being a way lately invented for more ſpeedy and ſafe conveyance to the Diabolical Regions: By <hi>Thomas Scot,</hi> now Poſt-maſter Ge<g ref="char:EOLhyphen"/>neral to the Prince of Darkneſs.</item>
+               <item>
+                  <hi>Hoylius Redevivus:</hi> or, A perfect demonſtration, That the eaſieſt way to revenge a man of his Adverſaries, is to make uſe of the help of Alderman <hi>Hoyles</hi> Chain: A Manu<g ref="char:EOLhyphen"/>ſcript intended ſhortly for publike view: By Sir <hi>Arthur Haſlerigge,</hi> a crack-bain'd Knight.</item>
+               <item>Solemn prayers for the deſtruction of <hi>Babel,</hi> being very pithy ejaculations for the pulling down St. <hi>Pulchers</hi> Church, leſt he ſhould never get money for the ſale of his Horſe: By <hi>Jeremy Ives,</hi> the gifted Maggot-Monger.</item>
+               <pb n="3" facs="tcp:133650:3"/>
+               <item> 
+                  <hi>De antiquitate Typograph<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ae,</hi> to ſhew, that Printing or Preſ<g ref="char:EOLhyphen"/>ſing was as antient as Grandfather <hi>Adams,</hi> learnedly put home by <hi>Henry Hills</hi> Printer, to the Taylors wife in Black-Friers.</item>
+               <item>
+                  <hi>Tempora mutantur &amp; nos mutamur in illis,</hi> or a compleat hi<g ref="char:EOLhyphen"/>ſtory of the life of Blind <hi>Hewſon,</hi> from his Awle to his Sword, and now to his Laſt, by his own hands.</item>
+               <item>
+                  <hi>Ariana Arianiſſima divulgata,</hi> or a plain diſcovery of thoſe places and honours which are already by the Divel provi<g ref="char:EOLhyphen"/>ded for his beſt ſervants of the Rump.</item>
+               <item>
+                  <hi>Utrum horum mavis accipe,</hi> or the gracious proffer of a hal<g ref="char:EOLhyphen"/>ter, or a hatchet, to the grand aſſertors of the Good Old Cauſe, by a friend to the Common-wealth of England.</item>
+               <item>The harmony of Confeſſions, or the Fanatick Directory, compiled by Sir <hi>Henry Vaene,</hi> Mr. <hi>Simpſon,</hi> Mr. <hi>Feak, James Haylor</hi> and others; a piece wonderfully conducing to the intereſt of the Saints, and deſtruction of that Antichri<g ref="char:EOLhyphen"/>ſtian thing called, Settlement.</item>
+               <item>Babylon is fallen, Babylon is fallen; or the true Relati<g ref="char:EOLhyphen"/>on of the final overthrow, and utter deſtruction of the Rotten RUMP of a Parliamentary <hi>Junto,</hi> by a friend to King <hi>Charles</hi> the Second.</item>
+               <item>The RUMPS Seminary, or the beſt way to find out the ableſt Utopian Common-wealths men, by the Coffee Club at Weſtminſter.</item>
+               <item>
+                  <hi>Lueri bonus eſt odor ex re qualibet;</hi> a Treatiſe written in defence of his ſeizing on the Boie's Cloſe-ſtool-pan, and reſerving the contents for his own profit, becauſe the Lad
+<pb n="4" facs="tcp:133650:4"/>was ſo profane to carry it on a Sunday, by Alderman <hi>At<g ref="char:EOLhyphen"/>kins,</hi> Shit-breeches.</item>
+               <item>
+                  <hi>A.T.</hi> is as good for a Sow as a Pancake; whereby is clear<g ref="char:EOLhyphen"/>ly demonſtrated, that the Rump would have carried on the buſineſs of the Saints better then any Parlament choſe according to the Laws of the Nation, by <hi>Tim. Rogers, prin<g ref="char:EOLhyphen"/>ceps fanaticorum.</hi>
+               </item>
+               <item>The Saints may fall away finally, proved in Collonel <hi>Overtons</hi> delivery of <hi>Hull</hi> into the hands of the Wicked, when he had reſolved to keep it till the coming of the fifth Monarch; with ſundry other examples of the Brethrens Apoſtacy.</item>
+               <item>No-beard, the true characteriſtical mark of a pious bro<g ref="char:EOLhyphen"/>ther, and a real aſſertor of the Good Old Cauſe, by <hi>John Ireton,</hi> and <hi>Robert Tychburn.</hi>
+               </item>
+               <item>The Spirit in the ſhape of an Owle, howling upon the top of the mountains, by <hi>Vavaſor Powell.</hi>
+               </item>
+               <item>The repentance of a ſinner, or paraphraſtical meditati<g ref="char:EOLhyphen"/>ons upon the Rumps Lamentations, by Collonel <hi>John Streater.</hi>
+               </item>
+               <item>
+                  <hi>Sicut erat in principio,</hi> As you were, Gentlemen; a ſeri<g ref="char:EOLhyphen"/>ous exhortation to his brethren of his Blade, to return to their former pitiful occupation, by <hi>John Desbrow,</hi> plowman.</item>
+               <item>
+                  <hi>Criſpin</hi> and <hi>Criſpianus,</hi> an excellent Romance, illuſtrated and innobled, by Coll. <hi>John Hewſon.</hi>
+               </item>
+               <item>
+                  <hi>E malis minimum eligendum,</hi> of two evils the leaſt is to be choſen; and then whether milk-purſe Lawyers, or Cut<g ref="char:EOLhyphen"/>threat
+<pb n="5" facs="tcp:133650:4"/>Tyrants are the more tolerable, by <hi>Eugenius Phi<g ref="char:EOLhyphen"/>lopater.</hi>
+               </item>
+               <item>Dapple groans under the weight of <hi>Sancho Pancha,</hi> or the <hi>quondam</hi> miſerable eſtate of the City-Aſs, by <hi>John Iteton</hi> then Lord Mayor of London.</item>
+               <item>
+                  <hi>De tribus impoſtoribus;</hi> or, A perfect Hiſtory of thoſe three notorious Cheats, <hi>Rogers, Feake,</hi> and <hi>Praiſegod Barebone.</hi>
+               </item>
+               <item>Animadverſions and Corrections of St. <hi>Paul's</hi> Epiſtles, and ſpecially of that ſentence, <hi>Godlineſs is great gain;</hi> where<g ref="char:EOLhyphen"/>as it ſhould be, <hi>Gain is great godlineſs;</hi> as is clearly proved by <hi>William Kiffin,</hi> Broaker of the Word.</item>
+               <item>The Art of pimping ſet forth to the life, for the benefit and inſtruction of all the indigent Brethren: By <hi>Michael Oldsworth,</hi> Pimp-maſter-General to the late Earl of <hi>Pem<g ref="char:EOLhyphen"/>brooke.</hi>
+               </item>
+               <item>The Defect of a virtue is worſe then the Exceſs; a Trea<g ref="char:EOLhyphen"/>tiſe ſhewing how much better it is to be hung like a Stalli<g ref="char:EOLhyphen"/>on with <hi>Henry Martin,</hi> then with the Lord <hi>Mounſon</hi> to want a Bauble.</item>
+               <item>
+                  <hi>Diva Pecunia,</hi> a brief Diſcourſe to prove that there nei<g ref="char:EOLhyphen"/>ther is, nor can be any other God which ſhould, be adored by the Saints, but the omnipotent Lady Money: By <hi>March<g ref="char:EOLhyphen"/>amond Needham,</hi> the Devil's half Crown News-monger.</item>
+               <item>
+                  <hi>Fiſtula in ano,</hi> and the Ulcer of the Rump; wherein is ſhown, that there is no better way to cure ſuch diſtempers, then a burning, or cauteriſing, by the Rump-confounding Boyes of the City of <hi>London.</hi>
+               </item>
+               <pb n="7" facs="tcp:133650:5" rendition="simple:additions"/>
+               <item> 
+                  <hi>Lex Legum;</hi> or, A clear demonſtration that there can be no better way for the ſecurity of the Saints, then by quite a<g ref="char:EOLhyphen"/>boliſhing the Laws of <hi>England,</hi> and ſetting up in their ſtead the Canons of <hi>Beelzebub:</hi> By <hi>Miles Corbet,</hi> Lord chief Ju<g ref="char:EOLhyphen"/>ſtice of the infernal Common-Wealth.</item>
+               <item>The Saints ſhall poſſeſs the Earth; proving, That it is law<g ref="char:EOLhyphen"/>ful for the brethren to ſtab, cut the throats of, or any way make an end of the Wicked of this World, if ſo be there will thereby any profit accrue to themſelves. By the Con<g ref="char:EOLhyphen"/>gregations at <hi>Pauls</hi> and elſewhere.</item>
+            </list>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
